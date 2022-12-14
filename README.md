@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Rubén Katins Durán</h1>
-<h3 align="center">técnico en Sistemas MicroInformáticos y Redes y futuro técnico superior en Desarrollo de Aplicaciones Web</h3>
+<h3 align="center">Soy técnico en Sistemas MicroInformáticos y Redes y futuro técnico superior en Desarrollo de Aplicaciones Web</h3>
 
 - 🔭 Estoy estudiando [Desarrollo de Aplicaciones Web (DAW)](https://www.juanxxiii.net/)
 
