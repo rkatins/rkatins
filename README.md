@@ -46,14 +46,16 @@
 </p>
 
 <h3 align="left">SO + Script</h3>
-<p align="center">
-   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-   </a> 
-   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-   </a>
-</p>
+<div style="background-color: #0066cc; margin-left: 50px; margin-top: 50px; border-radius: 25px; border: 2px solid violet; width: 200px; height: 200px;">
+   <p align="center">
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+      </a> 
+      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+      </a>
+   </p>
+</div>
 
 <p align="center">
    <a href="https://www.apple.com/es/" target="_blank" rel="noreferrer">
