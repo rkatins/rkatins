@@ -88,3 +88,10 @@
       <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg](https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg)" alt="oracle" width="40" height="40"/>
    </a>
 </p>
+
+## Statistics   
+
+   <p align="center">
+      <img width="56%" src="https://github-readme-stats.vercel.app/api?username=rkatins&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true"/>
+      <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkatins&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&langs_count=10"/>
+   </p>
