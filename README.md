@@ -16,14 +16,14 @@
    </a>
 </p>
 
-<h3 align="left"> Estadisticas   
+<h3 align="left">Estadisticas</h3>   
 
    <p align="center">
       <img width="56%" src="https://github-readme-stats.vercel.app/api?username=rkatins&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true"/>
       <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkatins&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&langs_count=10"/>
    </p>
 
-Lengujes de programacion y herramientas:</h3>
+<h3 align="left">Lengujes de programacion y herramientas:</h3>
 <p align="center">
    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
