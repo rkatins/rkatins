@@ -9,14 +9,21 @@
 
 - 📫 Contactame aquí **katinsruben.98@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contacta conmigo:</h3>
 <p align="left">
    <a href="https://www.linkedin.com/in/rub%C3%A9n-katins-dur%C3%A1n-4948b1144/?originalSubdomain=es" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubén katins durán" height="30" width="40" />
    </a>
 </p>
 
-<h3 align="left">Lengujes de programacion y herramientas:</h3>
+<h3 align="left"> Estadisticas   
+
+   <p align="center">
+      <img width="56%" src="https://github-readme-stats.vercel.app/api?username=rkatins&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true"/>
+      <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkatins&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&langs_count=10"/>
+   </p>
+
+Lengujes de programacion y herramientas:</h3>
 <p align="center">
    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -88,10 +95,3 @@
       <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg](https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg)" alt="oracle" width="40" height="40"/>
    </a>
 </p>
-
-## Statistics   
-
-   <p align="center">
-      <img width="56%" src="https://github-readme-stats.vercel.app/api?username=rkatins&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true"/>
-      <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkatins&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&langs_count=10"/>
-   </p>
