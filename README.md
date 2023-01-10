@@ -76,7 +76,7 @@
       <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Microsoft" width="40" height="40"/>
    </a>  
    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-      <img src="https://icons8.com/icon/8799/command-line" alt="bash" width="40" height="40"/>
+      <img src="https://static.thenounproject.com/png/2598479-200.png" alt=".bat" width="40" height="40"/>
    </a> 
 </p>
 
