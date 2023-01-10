@@ -76,7 +76,7 @@
       <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Microsoft" width="40" height="40"/>
    </a>  
    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+      <img src="https://icons8.com/icon/8799/command-line" alt="bash" width="40" height="40"/>
    </a> 
 </p>
 
@@ -92,6 +92,6 @@
       <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
    </a>
    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-      <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg](https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg)" alt="oracle" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40"/>
    </a>
 </p>
