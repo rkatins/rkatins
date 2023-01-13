@@ -9,13 +9,6 @@
 
 - 📫 Contactame aquí **katinsruben.98@gmail.com**
 
-<h3 align="left">Contacta conmigo:</h3>
-<p align="left">
-   <a href="https://www.linkedin.com/in/rub%C3%A9n-katins-dur%C3%A1n-4948b1144/?originalSubdomain=es" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubén katins durán" height="30" width="40" />
-   </a>
-</p>
-
 <h3 align="left">Estadisticas</h3>   
 
    <p align="center">
