@@ -13,7 +13,7 @@
 
    <p align="center">
       <img width="56%" src="https://github-readme-stats.vercel.app/api?username=rkatins&layout=default&theme=github_dark&hide_border=true&count_private=true&show_icons=true&locale=es"/>
-      <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkatins&layout=default&theme=github_dark&hide_border=true&count_private=true&show_icons=true&langs_count=10&locale=es"/>
+      <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkatins&layout=compact&theme=github_dark&hide_border=true&count_private=true&show_icons=true&langs_count=10&locale=es"/>
    </p>
 
 <h3 align="left">Lengujes de programacion y herramientas:</h3>
