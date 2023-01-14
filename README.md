@@ -9,8 +9,15 @@
 
 - 📫 Contactame aquí **katinsruben.98@gmail.com**
 
-<h3 align="left">Estadisticas</h3>   
+## Tecnologías:
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+</br>
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
+## Estadisticas
    <p align="center">
       <img width="56%" src="https://github-readme-stats.vercel.app/api?username=rkatins&layout=compact&theme=github_dark&hide_border=true&count_private=true&show_icons=true&locale=es"/>
       <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkatins&layout=compact&theme=github_dark&hide_border=true&count_private=true&show_icons=true&langs_count=10&locale=es"/>
