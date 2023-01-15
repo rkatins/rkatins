@@ -64,8 +64,14 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://mobile.twitter.com/rubencito_98)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
+
 ## Proyectos de interes
-[![Empezando-a-programar](https://img.shields.io/github/stars/rkatins/Empezando-a-programar?label=Empezando%20a%20programar&style=social)](https://github.com/rkatins)
+[![Empezando-a-programarC](https://img.shields.io/github/stars/rkatins/Empezando-a-programar?label=Empezando%20a%20programar&style=social)](https://github.com/rkatins/Empezando-a-programar/tree/main/Empezar%20en%20C)
+[![Empezando-a-programarJava](https://img.shields.io/github/stars/rkatins/Empezando-a-programar?label=Empezando%20a%20programar&style=social)](https://github.com/rkatins/Empezando-a-programar/tree/main/Empezar%20en%20Java)
+[![Pokemon](https://img.shields.io/github/stars/rkatins/Pokemon?label=Pokemon&style=social)](https://github.com/rkatins/Pokemon)
+[![Banco](https://img.shields.io/github/stars/rkatins/Banco?label=Banco&style=social)](https://github.com/rkatins/Banco)
+[![DNI](https://img.shields.io/github/stars/rkatins/DNI?label=DNI&style=social)](https://github.com/rkatins/DNI)
+
 
 <!--
 ## Insignias
