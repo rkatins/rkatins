@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Rubén Katins Durán</h1>
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" />, soy Rubén Katins Durán</h1>
 <h3 align="center">Soy técnico en Sistemas MicroInformáticos y Redes y futuro técnico superior en Desarrollo de Aplicaciones Web</h3>
 
 - 🔭 Estoy estudiando [Desarrollo de Aplicaciones Web (DAW)](https://www.juanxxiii.net/)
@@ -37,15 +37,18 @@
 <!--
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 -->
-
-## Estadisticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rkatins&theme=github_dark&show_icons=true)
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rkatins&theme=github_dark&show_icons=true)
-
 ## SO + Script
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/mac%20os-42aaf5?style=for-the-badge&logo=macos&logoColor=white)
+
+<p align="center">
+      <img width="70%" src="https://github-stats-alpha.vercel.app/api?username=rkatins&cc=0D1117&tc=4F93E3&ic=fff&bc=3C434D"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rkatins&layout=compact&show_icons=true&bg_color=0D1117&text_color=4F93E3&title_color=4F93E3&border_color=3C434D&hide_border=true&langs_count=10"/>
+</p>
+## Estadisticas
+![GitHub stats](https://github-stats-alpha.vercel.app/api?username=rkatins&cc=0D1117&tc=4F93E3&ic=fff&bc=3C434D)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rkatins&&layout=pie-chartt&show_icons=true&bg_color=0D1117&text_color=4F93E3&title_color=4F93E3&border_color=3C434D&hide_border=true)
 
 ## Algunas de mis herramientas
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
@@ -74,4 +77,14 @@
 ## Insignias
 https://github.com/Ileriayo/markdown-badges
 https://ileriayo.github.io/markdown-badges/
+-->
+
+<!--
+## Stats card
+https://github.com/tuhinpal/readme-stats-github
+-->
+
+<!--
+## Top lang
+https://github.com/anuraghazra/github-readme-stats
 -->
