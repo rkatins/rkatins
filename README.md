@@ -7,7 +7,7 @@
 
 - 💬 Pregúntame acerca de: **java, javascript, html, css y c**
 
-- 📫 Contactame aquí **katinsruben.98@gmail.com**
+- 📫 Contactame aquí [**katinsruben.98@gmail.com**](mailto:katinsruben.98@gmail.com)
 
 ## Tecnologías:
 
