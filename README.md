@@ -43,9 +43,9 @@
    </p>
 
 ## SO + Script
-![macOS](https://img.shields.io/badge/mac%20os-42aaf5?style=for-the-badge&logo=macos&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/mac%20os-42aaf5?style=for-the-badge&logo=macos&logoColor=white)
 
 ## Algunas de mis herramientas
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
