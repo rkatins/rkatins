@@ -5,7 +5,7 @@
 
 - 🔭 Je suis en train d'étudier [Développement d'Applications Web (DAW)](https://www.juanxxiii.net/)
 
-- 👨‍💻 Vous pouvez voir mes projets ici [https://github.com/rkatins](https://github.com/rkatins)
+- 👨‍💻 Vous pouvez voir mes projets ici: [https://github.com/rkatins](https://github.com/rkatins)
 
 - 💬 Demandez-moi appropos de: **java, javascript, html, css et c**
 
