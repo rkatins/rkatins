@@ -1,4 +1,4 @@
-[Français](./languages/README_FR.md) · [Español](../README.md)
+[Français](./README_FR.md) · [Español](../README.md)
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" />, I'm Rubén Katins Durán</h1>
 <h3 align="center">I'm a technician in Microcomputer Systems and Networks and future technician in Web Applications Development</h3>
