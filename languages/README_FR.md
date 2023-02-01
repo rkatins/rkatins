@@ -43,12 +43,13 @@
 ![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/mac%20os-42aaf5?style=for-the-badge&logo=macos&logoColor=white)
 
+## Statistiques
 <p align="center">
       <img width="70%" src="https://github-stats-alpha.vercel.app/api?username=rkatins&cc=0D1117&tc=4F93E3&ic=fff&bc=0D1117"/>
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rkatins&layout=compact&show_icons=true&bg_color=0D1117&text_color=4F93E3&title_color=4F93E3&border_color=3C434D&hide_border=true&langs_count=10"/>
 </p>
 <!--
-## Estadisticas
+## Statistiques
 ![GitHub stats](https://github-stats-alpha.vercel.app/api?username=rkatins&cc=0D1117&tc=4F93E3&ic=fff&bc=3C434D)
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rkatins&&layout=pie-chartt&show_icons=true&bg_color=0D1117&text_color=4F93E3&title_color=4F93E3&border_color=3C434D&hide_border=true)
 -->
