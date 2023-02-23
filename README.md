@@ -45,16 +45,12 @@
 ![macOS](https://img.shields.io/badge/mac%20os-42aaf5?style=for-the-badge&logo=macos&logoColor=white)
 
 ## Estadisticas
-<p align="center">
-      <img width="56%" src="https://github-readme-stats.vercel.app/api?username=rkatins&layout=compact&theme=apprentice &hide_border=true&count_private=true&show_icons=true"/>
-      <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkatins&layout=compact&theme=apprentice &hide_border=true&count_private=true&show_icons=true&langs_count=10"/>
-</p>
-<!--
+
 <p align="center">
       <img width="70%" src="https://github-stats-alpha.vercel.app/api?username=rkatins&cc=0D1117&tc=4F93E3&ic=fff&bc=0D1117"/>
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rkatins&layout=compact&show_icons=true&bg_color=0D1117&text_color=4F93E3&title_color=4F93E3&border_color=3C434D&hide_border=true&langs_count=10"/>
 </p>
-
+<!--
 ## Estadisticas
 ![GitHub stats](https://github-stats-alpha.vercel.app/api?username=rkatins&cc=0D1117&tc=4F93E3&ic=fff&bc=3C434D)
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rkatins&&layout=pie-chartt&show_icons=true&bg_color=0D1117&text_color=4F93E3&title_color=4F93E3&border_color=3C434D&hide_border=true)
