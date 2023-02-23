@@ -46,8 +46,8 @@
 
 ## Estadisticas
 <p align="center">
-      <img width="56%" src="https://github-readme-stats.vercel.app/api?username=rkatins&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true"/>
-      <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkatins&layout=compact&theme=gotham&hide_border=true&count_private=true&show_icons=true&langs_count=10"/>
+      <img width="56%" src="https://github-readme-stats.vercel.app/api?username=rkatins&layout=compact&theme=apprentice &hide_border=true&count_private=true&show_icons=true"/>
+      <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkatins&layout=compact&theme=apprentice &hide_border=true&count_private=true&show_icons=true&langs_count=10"/>
 </p>
 <!--
 <p align="center">
