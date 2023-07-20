@@ -1,0 +1,68 @@
+@font-face{
+	font-family: 'JetBrainsMono-SemiBold';
+	src: url(../FONTS/JetBrainsMono-SemiBold.ttf);
+}
+
+* {
+	font-family: 'JetBrainsMono-SemiBold';
+}
+
+body {
+	background: white;
+}
+
+.blue {
+	color: #29b6f6;
+}
+
+.green {
+	color: #9ccc65;
+}
+
+.purple {
+	color: #ba68c8;
+}
+
+.cyan {
+	color: #4dd0e1;
+}
+
+.red {
+	margin-left: 20px;
+	color: #ef5350;
+}
+
+#content {
+	height: 100vh;
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.card {
+	/*FUNCTIONALITY*/
+	height: 286px;
+	width: 538px;
+	border-radius: 20px;
+	box-shadow: 2px 2px 8px rgba(93, 93, 93, 1);
+
+	background: rgba(51, 51, 51, 1);
+	overflow: hidden;
+}
+
+.rowIndicator {
+	display: flex;
+/*	border: 1px solid white;*/
+}
+
+.nLinea {
+	width: 35px;
+	border-right: 1px solid #566573;
+	border-bottom: 1px solid #2d4154;
+	background-color: #34495E;
+
+	margin-right: 15px;
+	text-align: center;
+
+}
