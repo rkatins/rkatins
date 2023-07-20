@@ -46,7 +46,7 @@
 
 ## Statistics
 <p align="center">
-      <img src="../card/tarjeta-radius.png"/>
+      <img src="../card/tarjeta_EN-radius.png"/>
 </p>
 
 <!--
