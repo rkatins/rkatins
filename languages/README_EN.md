@@ -1,6 +1,6 @@
 <div align="center">
 
-[Français](./languages/README_FR.md) · [Español](../README.md)
+[Français](./README_FR.md) · [Español](../README.md)
 
 # Hi <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/waving_hand.gif" alt="wave" width="28" height="28" />, I'm Rubén Katins Durán
 ### 💻 Frontend Developer
